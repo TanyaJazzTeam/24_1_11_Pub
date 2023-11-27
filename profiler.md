@@ -7,6 +7,8 @@ Profiler to track the performance of your TensorFlow models. You will learn how
 to understand how your model performs on the host (CPU), the device (GPU), or on
 a combination of both the host and device(s).
 
+## fjjf
+
 Profiling helps understand the hardware resource consumption (time and memory)
 of the various TensorFlow operations (ops) in your model and resolve performance
 bottlenecks and, ultimately, make the model execute faster.
