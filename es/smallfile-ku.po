@@ -10,6 +10,10 @@ msgstr "A screenshot showing amp-sidebar2."
 msgid "A website screenshot."
 msgstr "A website screenshot2."
 
+#: /views/partials/footer.j2:79
+msgid "AMP"
+msgstr "AMP"
+
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
 msgstr "AMP Brand Materials2"
