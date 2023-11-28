@@ -14,6 +14,10 @@ msgstr ""
 msgid "AMP Brand Materials"
 msgstr ""
 
+#: /views/partials/footer.j2:78
+msgid "AMP 4"
+msgstr ""
+
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
 msgstr ""
